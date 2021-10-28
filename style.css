@@ -1,0 +1,19 @@
+body{
+    background-image: url(100x100.gif);
+    background-color: rgb(126, 126, 126);
+}
+
+h1{
+    border: red 20px solid;
+    opacity: 0.75;
+    background-color: aqua;
+    color: black;
+    width: 400px;
+    height: 100px;
+    padding: 20px;
+    margin: 20px;
+}
+
+p{
+    color: red;
+}
